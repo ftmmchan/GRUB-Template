@@ -47,8 +47,10 @@
 ## :art: Preview theme
 
 <p align="center">
-<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Hoshimati-Suisei-912600790" title="❤️ Hoshimati Suisei ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df3c79y-900172d3-7418-482d-afcc-9cebcde4f417.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGYzYzc5eS05MDAxNzJkMy03NDE4LTQ4MmQtYWZjYy05Y2ViY2RlNGY0MTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EeVq43ESgcMPaEXrosP9IFI9yU9PENnJQ_e4NzOKLXE" width="90%"></a>
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Hoshimati-Suisei-912600790" title="❤️ Hoshimati Suisei ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df3c79y-900172d3-7418-482d-afcc-9cebcde4f417.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGYzYzc5eS05MDAxNzJkMy03NDE4LTQ4MmQtYWZjYy05Y2ViY2RlNGY0MTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EeVq43ESgcMPaEXrosP9IFI9yU9PENnJQ_e4NzOKLXE" width="88%"></a>
 </p>
+
+##
 
 ## :wrench: Installation
 ### :one: <b>First installation way</b>
@@ -114,9 +116,3 @@
 - [DeviantArt](https://www.deviantart.com/)
 - [Linuxer Desktop Art](https://www.facebook.com/groups/linuxart/)
 - [Linux Indonesia](https://www.facebook.com/groups/2628445374043698/)
-
-<h1></h1>
-
-<pre align="center">
-<a href="https://github.com/13atm01/GRUB-Theme/blob/master/README.md">BACK TO TOP</a>
-</pre>
