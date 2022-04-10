@@ -114,3 +114,9 @@
 - [DeviantArt](https://www.deviantart.com/)
 - [Linuxer Desktop Art](https://www.facebook.com/groups/linuxart/)
 - [Linux Indonesia](https://www.facebook.com/groups/2628445374043698/)
+
+<h1></h1>
+
+<pre align="center">
+<a href="https://github.com/13atm01/GRUB-Theme/README.md">BACK TO TOP</a>
+</pre>
