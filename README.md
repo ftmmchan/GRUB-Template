@@ -118,5 +118,5 @@
 <h1></h1>
 
 <pre align="center">
-<a href="https://github.com/13atm01/GRUB-Theme/README.md">BACK TO TOP</a>
+<a href="https://github.com/13atm01/GRUB-Theme/blob/master/README.md">BACK TO TOP</a>
 </pre>
