@@ -37,6 +37,19 @@
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Itsuki-Christmas-Version-901856049" title="❤️ Nakano Itsuki ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dewxwkx-51830ea3-9163-476d-99b5-47afdeda4b0b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGV3eHdreC01MTgzMGVhMy05MTYzLTQ3NmQtOTliNS00N2FmZGVkYTRiMGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.54LCmqDTod4OYzviTVEAQfAr16m6-e0ZVBhzU1Jv6Yo" width="49%"></a>
 </p>
 
+##
+##
+
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-VTuber-version-912599545" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df3c6bd-b424792c-6ad2-45a9-838f-9d80bf215259.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGYzYzZiZC1iNDI0NzkyYy02YWQyLTQ1YTktODM4Zi05ZDgwYmYyMTUyNTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.U4rBsMDu-w8gQhkdu9S_95rQRB3SWzeNiwpAbB6jUyM" width="62%"></a>
+</p>
+
+## :art: Preview theme
+
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Hoshimati-Suisei-912600790" title="❤️ Hoshimati Suisei ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df3c79y-900172d3-7418-482d-afcc-9cebcde4f417.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGYzYzc5eS05MDAxNzJkMy03NDE4LTQ4MmQtYWZjYy05Y2ViY2RlNGY0MTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EeVq43ESgcMPaEXrosP9IFI9yU9PENnJQ_e4NzOKLXE" width="90%"></a>
+</p>
+
 ## :wrench: Installation
 ### :one: <b>First installation way</b>
 
@@ -54,15 +67,17 @@
     cd GRUB-Theme
     ```
 
- - Change to the Nakano directory you want to install, for eg:
+ - Change to the directory you want to install, for eg:
 
     ```
     cd "Nakano Miku"
     ```
  - Setup the new GRUB
 
+    ```sh
+    sudo ./install.sh                       #if error try "sudo sh ./install.sh"
     ```
-    sudo ./install.sh
+    ```
     sudo update-grub
     ```
  - Reboot your PC
@@ -74,8 +89,10 @@
 - Open terminal in the GRUB Theme folder you want to install
 - Setup the new GRUB
 
+    ```sh
+    sudo ./install.sh                       #if error try "sudo sh ./install.sh"
     ```
-    sudo ./install.sh
+    ```
     sudo update-grub
     ```
 - Reboot your PC
