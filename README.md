@@ -17,8 +17,12 @@
 
     ```
     sudo GRUB-Template/Template_1/install.sh                #エラーが出る場合 "sudo sh ~/GRUB-Template/Template_1/install.sh"
+    ```
+   
+ - GRUBを読み込みます。
+    ```
     sudo update-grub
     ```
- - 再起動します。
+- PCを再起動します。
 
 元の製作者：13atm01
