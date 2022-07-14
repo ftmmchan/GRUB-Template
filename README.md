@@ -19,7 +19,8 @@
     cd GRUB-Template/Template_1
     #作業ディレクトリに移動
     sudo ./install.sh                
-    #エラーが出る場合 "sudo bash ./install.sh"
+    #エラーが出る場合 
+    sudo bash ./install.sh
     ```
    
  - GRUBを読み込みます。
