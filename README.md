@@ -11,12 +11,12 @@
     git clone https://github.com/ftmmchan/GRUB-Template.git
     ```
 
-- ホームディレクトリにGRUB-Themeというフォルダがあると思うので中の画像を適当に差し替えます。
+- ホームディレクトリにGRUB-Templateというフォルダがあると思うので中の画像を適当に差し替えます。
     
- - テーマをインストールします。
+ - テーマをインストールします。以下例
 
     ```
-    sudo GRUB-Theme/GRUB-Template/install.sh                #エラーが出る場合 "sudo sh ~/GRUB-Theme/GRUB-Template/install.sh"
+    sudo GRUB-Template/Template_1/install.sh                #エラーが出る場合 "sudo sh ~/GRUB-Template/Template_1/install.sh"
     sudo update-grub
     ```
  - 再起動します。
