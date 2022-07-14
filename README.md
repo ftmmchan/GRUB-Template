@@ -24,11 +24,7 @@
     #エラーが出る場合 
     sudo bash ./install.sh
     ```
-   
- - GRUBを読み込みます。
-    ```
-    sudo update-grub
-    ```
+
 - PCを再起動します。
 
 元の製作者：13atm01
