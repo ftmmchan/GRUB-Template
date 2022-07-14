@@ -27,4 +27,12 @@
 
 - PCを再起動します。
 
+- アンインストールする場合。
+
+    ```
+    sudo ./uninstall.sh                
+    #エラーが出る場合 
+    sudo bash ./uninstall.sh
+    ```
+
 元の製作者：13atm01
