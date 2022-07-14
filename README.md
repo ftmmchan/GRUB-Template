@@ -16,7 +16,10 @@
  - テーマをインストールします。以下例
 
     ```
-    sudo GRUB-Template/Template_1/install.sh                #エラーが出る場合 "sudo sh ~/GRUB-Template/Template_1/install.sh"
+    cd GRUB-Template/Template_1
+    #作業ディレクトリに移動
+    sudo ./install.sh                
+    #エラーが出る場合 "sudo sh ./install.sh"
     ```
    
  - GRUBを読み込みます。
