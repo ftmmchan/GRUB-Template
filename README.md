@@ -11,7 +11,7 @@
     git clone https://github.com/ftmmchan/GRUB-Template.git
     ```
 
-- ホームディレクトリにGRUB-Templateというフォルダがあると思うので中の画像を適当に差し替えます。
+- ホームディレクトリにGRUB-Templateというフォルダがあると思うので中にあるbackground.pngなどの画像を適当に差し替えます。
     
  - テーマをインストールします。以下例
 
