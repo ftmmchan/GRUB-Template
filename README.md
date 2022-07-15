@@ -39,4 +39,4 @@
     sudo bash ./uninstall.sh
     ```
 
-元の製作者：[Andi Trisna Mukti様](https://github.com/13atm01/GRUB-Theme)
+元の製作者：[Andi Trisna Mukti様](https://github.com/13atm01/GRUB-Theme)、[Vince様](https://github.com/vinceliuice/grub2-themes)
