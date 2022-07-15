@@ -17,9 +17,9 @@ message-color: "#fd262e"
 
 # Show the boot menu
 + boot_menu {
-  left = 10%+8
+  left = 20%
   top = 33%+1
-  width = 52%
+  width = 60%
   height = 58%
   item_font = "Terminus Regular Bold 16"
   item_color = "#000000"
@@ -35,10 +35,10 @@ message-color: "#fd262e"
 
 # Show progress
 + progress_bar {
-  left = 4%+2
+  left = 17%+1
   top = 92%
   height = 30
-  width = 65%-3
+  width = 65%+34
   font = "Terminus Regular 16"
   id = "__timeout__"
   text = "Automatically booting in %d seconds"
