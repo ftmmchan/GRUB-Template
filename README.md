@@ -11,17 +11,17 @@
     git clone https://github.com/ftmmchan/GRUB-Template.git
     ```
 
-- ホームディレクトリにGRUB-Template/Template_xというフォルダがあると思うので  
+- ホームディレクトリにGRUB-Template/sampleというフォルダがあると思うので  
    中にあるTheme/background.pngなどの画像を適当に差し替えます。  
    フォルダ名がそのままテーマ名になりますので複製して好きなようにしてください。  
-   テーマのテンプレートは3種類用意しています。 
+   弄りやすいようにpsdファイルを用意しています。
     
     
-   <img src="Template_1.png" width=320> <img src="Template_2.png" width=320> <img src="Template_3.png" width=320>
+   <img src="Preview.png" width=320> 
  - テーマをインストールします。
 
     ```
-    cd GRUB-Template/Template_1
+    cd GRUB-Template/sample
     #作業ディレクトリに移動
     ```
     ```
