@@ -13,9 +13,11 @@
 
 - ホームディレクトリにGRUB-Templateというフォルダがあると思うので中にあるbackground.pngなどの画像を適当に差し替えます。
     
-   テーマは右寄りと左寄りの2種類用意しています。 
+   テーマのテンプレートは3種類用意しています。 
     
- - テーマをインストールします。以下例
+    
+   <img src="Template_1.png" width=320> <img src="Template_2.png" width=320> <img src="Template_3.png" width=320>
+ - テーマをインストールします。
 
     ```
     cd GRUB-Template/Template_1
@@ -39,4 +41,4 @@
     sudo bash ./uninstall.sh
     ```
 
-元の製作者：13atm01
+元の製作者：[Andi Trisna Mukti様](https://github.com/13atm01/GRUB-Theme)、[Vince様](https://github.com/vinceliuice/grub2-themes)
