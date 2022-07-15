@@ -2,10 +2,7 @@
 # Modified version from Tela Theme [https://github.com/vinceliuice/grub2-themes]
 # GRUB2 Theme
 
-#テーマの名前
-
-
-#ここから下は編集しないでください
+#編集しないでください
 
 ROOT_UID=0
 THEME_DIR="/usr/share/grub/themes"
