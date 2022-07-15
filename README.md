@@ -13,8 +13,10 @@
 
 - ホームディレクトリにGRUB-Templateというフォルダがあると思うので中にあるbackground.pngなどの画像を適当に差し替えます。
     
-   テーマは3種類用意しています。 
+   テーマのテンプレートは3種類用意しています。 
     
+    
+   <img src="Template_1.png" width=320> <img src="Template_2.png" width=320> <img src="Template_3.png" width=320>
  - テーマをインストールします。
 
     ```
